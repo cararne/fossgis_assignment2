@@ -1,0 +1,6 @@
+way 
+[highway=motorway]
+[landuse=forest]
+(49.14,8.168,49.785,9.281)
+(._;>;);
+out;
