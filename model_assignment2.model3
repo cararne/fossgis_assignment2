@@ -353,9 +353,9 @@
       <Option type="QString" value="0" name="default"/>
       <Option type="QString" value="buffer_distance" name="description"/>
       <Option type="int" value="0" name="flags"/>
-      <Option type="double" value="500" name="max"/>
+      <Option type="double" value="1e+06" name="max"/>
       <Option name="metadata"/>
-      <Option type="double" value="500" name="min"/>
+      <Option type="double" value="0" name="min"/>
       <Option type="QString" value="bufferdistance" name="name"/>
       <Option type="QString" value="number" name="parameter_type"/>
     </Option>
